@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="500"/>
 </div>
+### :woman_technologist: About Me :- :telescope: I’m learning computer science and contributing to open sources project.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
