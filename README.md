@@ -1,4 +1,4 @@
-###### Hi!  I'm happy to see you here! 👋
+# Hi!  I'm happy to see you here! 👋
 
 <!--
 **chavi362/chavi362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 -  ##❤️ Support:
 If you find my projects helpful or interesting, consider giving them a ⭐️. It means a lot to me!
 
-Thank you for visiting my profile. Have a great day! 🌟
+###Thank you for visiting my profile. Have a great day! 🌟
