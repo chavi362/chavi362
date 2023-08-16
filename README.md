@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 </div>
 
 
-### :woman_technologist: About Me :- :telescope: I’m computer science student with a great love for coding and tech💗. Always learning and creating. 
+### :woman_technologist: About Me :
+###- :telescope: I’m computer science student with a great love for coding and tech💗. Always learning and creating. 
 - 🔭Skills: I know c++, c#, java script , html and CSS
 - 🌱 Learnng: I’m currently learning Java, Python & React
 -  :seedling:  Coding Enthusiast: I breathe, eat, and dream in code! 💡 Whether it's crafting sleek web applications, exploring the depths of algorithms, or building robust software, I find immense joy in bringing ideas to life through programming. My curiosity and desire to constantly learn drive me to read everyhing about tech.
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 - - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
  
   - When I'm not programming, you can find me reading books, talking with friends or family members, cooking, baking and inventing new and creative recipes.
--  ##❤️ Support:
+###-  ❤️ Support:
 If you find my projects helpful or interesting, consider giving them a ⭐️. It means a lot to me!
 
 ###Thank you for visiting my profile. Have a great day! 🌟
