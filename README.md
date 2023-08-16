@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
  
   - When I'm not programming, you can find me reading books, talking with friends or family members, cooking, baking and inventing new and creative recipes.
-### :fire: My Stats :
+### :fire: My Stats :https://github-readme-streak-stats.herokuapp.com/?user=chavi362
