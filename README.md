@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" width="500"/>
 </div>
 
-
+<div align="center">
 ### :woman_technologist: About Me :
 ###- :telescope: I’m computer science student with a great love for coding and tech💗. Always learning and creating. 
 - 🔭Skills: I know c++, c#, java script , html and CSS
@@ -30,7 +30,27 @@ Here are some ideas to get you started:
 - - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
  
   - When I'm not programming, you can find me reading books, talking with friends or family members, cooking, baking and inventing new and creative recipes.
+   </div>
 ###-  ❤️ Support:
 If you find my projects helpful or interesting, consider giving them a ⭐️. It means a lot to me!
 
+### Languages and Tools
+
+<p>
+ 
+ 
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/c++/c++.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
+ 
+ 
+ -----
+  
+</p>
 ###Thank you for visiting my profile. Have a great day! 🌟
