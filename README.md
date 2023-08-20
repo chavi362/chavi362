@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <div align="center">
 ### :woman_technologist: About Me :
 ###- :telescope: I’m computer science student with a great love for coding and tech💗. Always learning and creating. 
-- 🔭Skills: I know c++, c#, java script , html and CSS
-- 🌱 Learnng: I’m currently learning Java, Python & React
 -  :seedling:  Coding Enthusiast: I breathe, eat, and dream in code! 💡 Whether it's crafting sleek web applications, exploring the depths of algorithms, or building robust software, I find immense joy in bringing ideas to life through programming. My curiosity and desire to constantly learn drive me to read everyhing about tech.
 
   - :📚 Collaboration and Growth: I believe that communicating with people about technology is the best way to learn new and fascinating thingsת So,  I thrive in team environments. I love to engage in meaningful discussions, share ideas, and contribute to open-source projects. Building a vibrant developer community is essential for collective progress.
@@ -37,15 +35,16 @@ If you find my projects helpful or interesting, consider giving them a ⭐️. I
 ### Languages and Tools
 
 <p>
- 
- 
+
+
+  
+   <code><img width="15%" src="[https://www.vectorlogo.zone/logos/c++/c++.svg](https://w7.pngwing.com/pngs/726/280/png-transparent-c-guida-essenziale-per-programmatori-der-c-programmierer-c-lernen-professionell-anwenden-losungen-nutzen-the-c-programming-language-3d-spiele-programmierung-modernes.png)https://w7.pngwing.com/pngs/726/280/png-transparent-c-guida-essenziale-per-programmatori-der-c-programmierer-c-lernen-professionell-anwenden-losungen-nutzen-the-c-programming-language-3d-spiele-programmierung-modernes.png"></code>
+ <code><img width="15%" src="<code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/c++/c++.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
  
