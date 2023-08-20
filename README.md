@@ -48,4 +48,23 @@ If you find my projects helpful or interesting, consider giving them a ⭐️. I
  -----
   
 </p>
-###Thank you for visiting my profile. Have a great day! 🌟
+<div>
+<h1 align="center">Github Stats</h1>
+
+<div align="center">
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=chavi362&theme=highcontrast)](https://github.com/chavi362)
+
+</div>
+ 
+ 
+<img align="left" alt="Chavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chavi362&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavi362&layout=compact&theme=dark" width="46%" />
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=chavi362&theme=xcode">
+
+
+-----
+</div>
+
+<h2>Thank you for visiting my profile. Have a great day! 🌟</h2>
