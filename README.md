@@ -50,7 +50,7 @@ If you find my projects helpful or interesting, consider giving them a ⭐️. I
 <h1 align="center">Github Stats</h1>
 
 <div align="center">
-  [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=chavi362&theme=highcontrast)](https://github.com/chavi362)
+<img src="[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=chavi362&theme=highcontrast)](https://github.com/chavi362)">
 </div>
 
 <img align="left" alt="Chavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chavi362&&show_icons=true&theme=dark" width="50%" />
