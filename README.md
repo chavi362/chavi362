@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
- ![Banner]https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif
+<img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif">
 </div>
 
 <div align="center">
