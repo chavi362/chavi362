@@ -59,8 +59,6 @@ If you find my projects helpful or interesting, consider giving them a ⭐️. I
 
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=chavi362&theme=xcode">
-
 -----
 
 <h2>Thank you for visiting my profile. Have a great day! 🌟</h2>
