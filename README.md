@@ -51,8 +51,7 @@ If you find my projects helpful or interesting, consider giving them a ⭐️. I
 <h1 align="center">Github Stats</h1>
 
 <div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=chavi362&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavi362&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&card_width=382px" />
-
+<img height="60%" src="https://github-readme-stats.vercel.app/api?username=chavi362&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chavi362&show_icons=true&theme=tokyonight" />
