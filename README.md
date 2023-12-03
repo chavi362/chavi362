@@ -1,4 +1,7 @@
 # Hi! I'm happy to see you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavi362" alt="chavi362" /></a> </p>
+
 
 <!--
 **chavi362/chavi362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
