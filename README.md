@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 ### If you find my projects helpful or interesting, consider giving them a ⭐️. It means a lot to me!
 
 ## Languages and Tools
-
-
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
     <tr>
