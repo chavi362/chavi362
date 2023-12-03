@@ -112,7 +112,8 @@ Here are some ideas to get you started:
  </tr>
 </table>
 <br><br>
-
+</tr>
+</tr></tr>div>
 -----
 
 <h1 align="center">Github Stats</h1>
