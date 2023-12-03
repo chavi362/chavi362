@@ -1,6 +1,6 @@
 # Hi! I'm happy to see you here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavi362&theme=tokyonight" alt="chavi362" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavi362&theme=tokyonight" alt="chavi362" width="90%" /></a> </p>
 
 
 <!--
