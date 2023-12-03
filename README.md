@@ -48,11 +48,11 @@ If you find my projects helpful or interesting, consider giving them a ⭐️. I
 
 <h1 align="center">Github Stats</h1>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavi362&hide=html&hide_title=true&hide_border=true&theme=tokyonight" />
+<img width="48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavi362&hide=html&hide_title=true&hide_border=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chavi362&show_icons=true&theme=tokyonight" />
 <br>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chavi362&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chavi362&theme=tokyonight" />
+  <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=chavi362&theme=tokyonight" />
 </p>
 -----
 
