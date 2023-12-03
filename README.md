@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div width="100%" style="background:-webkit-linear-gradient(left, #ea6161, #ffc64d, #fffc4d, #52fa5a, #4dfcff, #c64dff);text-align: center;font-family: inherit;font-weight: bold;max-width: 782px;margin-bottom: 20px;align-content: center;padding: 10px;"> 👋 HI THERE !</div -->
-<div id="header" align="center">
 <img  width="50%" src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif">
 </div>
 
@@ -50,8 +48,7 @@ If you find my projects helpful or interesting, consider giving them a ⭐️. I
 
 <h1 align="center">Github Stats</h1>
 
-<div align="center">
-<img height="60%" src="https://github-readme-stats.vercel.app/api?username=chavi362&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavi362&hide=html&hide_title=true&hide_border=true&theme=tokyonight" />
 <br>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chavi362&show_icons=true&theme=tokyonight" />
