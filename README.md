@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 <h1 align="center">Github Stats</h1>
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chavi362&show_icons=true&theme=tokyonight" alt="chavi362" />
-  <img align="right" width="48%"  src="https://github-readme-stats.vercel.app/api?username=chavi362&show_icons=true&theme=tokyonight" />
+  <img align="right" width="48%"  src="https://github-readme-stats.vercel.app/api?username=chavi362&show_icons=true&theme=tokyonight&layout=compact" />
 </p>
 
 <br>
