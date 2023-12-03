@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <h3>:woman_technologist: About Me :</h3>
+  <h3> About Me :</h3>
   <ul>
     <li>:telescope: I’m a computer science student with a great love for coding and tech. Always learning and creating.</li>
     <li>:seedling: Coding Enthusiast: I breathe, eat, and dream in code! Whether it's crafting sleek web applications, exploring the depths of algorithms, or building robust software, I find immense joy in bringing ideas to life through programming. My curiosity and desire to constantly learn drive me to read everything about tech.</li>
@@ -47,13 +47,16 @@ If you find my projects helpful or interesting, consider giving them a ⭐️. I
 -----
 
 <h1 align="center">Github Stats</h1>
-<p align="center><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavi362&theme=tokyonight" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chavi362&show_icons=true&theme=tokyonight" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavi362&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chavi362&show_icons=true&theme=tokyonight" />
+</p>
 
 <br>
 <p align="center">
   <img width="88%" src="https://github-readme-streak-stats.herokuapp.com/?user=chavi362&theme=tokyonight" />
 </p>
+
 -----
 
 <h2>Thank you for visiting my profile. Have a great day! 🌟</h2>
