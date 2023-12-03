@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <img  width="50%" src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif">
 </div>
+-->
+
 
 <div align="center">
   <h3> About Me :</h3>
