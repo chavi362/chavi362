@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div width="100%" style="background:-webkit-linear-gradient(left, #ea6161, #ffc64d, #fffc4d, #52fa5a, #4dfcff, #c64dff);text-align: center;font-family: inherit;font-weight: bold;max-width: 782px;margin-bottom: 20px;align-content: center;padding: 10px;"> 👋 HI THERE !</div -->
 <div id="header" align="center">
 <img  width="50%" src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif">
 </div>
