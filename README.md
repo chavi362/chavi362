@@ -28,11 +28,11 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
-### Support
+## Support
 
-If you find my projects helpful or interesting, consider giving them a ⭐️. It means a lot to me!
+### If you find my projects helpful or interesting, consider giving them a ⭐️. It means a lot to me!
 
-### Languages and Tools
+## Languages and Tools
 
 <p>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
