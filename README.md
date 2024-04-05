@@ -103,7 +103,7 @@ Here are some ideas to get you started:
       <br>Bootstrap
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <img src="[https://skillicons.dev/icons?i=mongodb](https://4.bp.blogspot.com/-mNAYu8OwYOw/W82aXiapHYI/AAAAAAAAGkg/hjmq84D2Jj8RBp5l9rMNTk7n79KeuPw1QCEwYBhgL/s1600/InsistentSardonicAppaloosa-size_restricted.gif)" width="48" height="48" alt="SQL" />
       <br>MongoDB
     </td>
         <td align="center" width="96">
